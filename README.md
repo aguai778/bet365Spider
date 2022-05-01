@@ -18,7 +18,10 @@ bet365 实时数据获取 比赛数据解析 赔率数据解析
 ![avatar](2.png)
 
 
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/yDg0WNEfAk0/0.jpg)](http://www.youtube.com/watch?v=yDg0WNEfAk0 )
+
 ## 交流
-#### 出售解析赔率代码有意联系
-- QQ:937029504  
+
+- Q:937029504  
 
